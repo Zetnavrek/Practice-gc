@@ -1,0 +1,1 @@
+var quiestion= prompt("Hola,Bere. Como estas?" 1. Bien 2. Maravillosamente 3.Fantastico);
